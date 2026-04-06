@@ -40,3 +40,8 @@ Emergix helps users:
 
 Team- Phantom Thread
  (Current Status: Prototype / Hackathon Project)
+
+
+ 📂 Project Resources
+
+📊 [View Project Presentation (PPT)](./Emergix.pptx)
