@@ -34,7 +34,7 @@ Emergix helps users:
 
 🚀 Future Scope
 
-- Ratings & reviews (like Zomato for healthcare)
+- Ratings & reviews (like Zomato or Swiggy for restaurants)
 - Disease-based filtering
 - Ambulance integration
 
